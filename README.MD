@@ -29,12 +29,15 @@ O único servidor desta rede deve servir um site(rh.ada) HTTP com o conteúdo ap
 - Criação de 1 computador dentro da rede utilizando IP fixo;
 - Criação de 1 servidor DNS que resolverá os domínios das outras duas redes: Financeiro e RH; 
 
+![Tela do PacketTracer mostrando a rede RH](TI.png)
+
 • **Rede Roteadores**:
 
 - A função dessa rede é conectar os dois roteadores;
 - Deve ser configurada uma rota estática entre os dois roteadores para permitir acesso as demais redes;
 
 ![Tela do PacketTracer mostrando a rede Roteadores](Rotoeadores.png)
+
 • **As redes devem ser distribuídas da seguinte forma**:
     
 - Roteador 1:
